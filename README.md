@@ -26,7 +26,6 @@ The goals / steps of this project are the following:
 [image6]: ./images/crop_center.png "Crop Image"
 [image7]: ./images/resized_center.png "Resized Image"
 [image8]: ./images/yuv_center.png "Crop Image"
-[image7]: ./examples/placeholder_small.png "Flipped Image"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
