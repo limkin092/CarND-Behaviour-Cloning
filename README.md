@@ -151,3 +151,7 @@ For example, here are the images:
 ![alt text][image8]
 
 I finally randomly shuffled the data set and put 20% of the data into a validation set. 
+
+### Video of the solution!
+
+[![Video of my solution](https://img.youtube.com/vi/3pCsBfpuf0I/0.jpg)](https://youtu.be/3pCsBfpuf0I)
