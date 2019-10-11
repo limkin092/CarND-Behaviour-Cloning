@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/ccn-architecture.png "Model Visualization"
+[image1]: ./images/cnn-architecture.png "Model Visualization"
 [image2]: ./images/center.png "Center Camera Image"
 [image3]: ./images/left.png "Left Camera Image"
 [image4]: ./images/right.png "Right Image"
